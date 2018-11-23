@@ -1,0 +1,25 @@
+﻿@model List<InventarioWeb.Models.Cliente>
+@{ 
+    ViewData["Title"] = "Index";
+}
+
+<h2>Lsitado De Clientes</h2>
+
+<table class="table">
+    <tr>
+        <td>Numero Cliente</td>
+        <td>Nombre Cliente</td>
+        <td>Telefono Cliente</td>
+        <td>Dirección Cliente</td>
+    </tr>
+    @foreach (var cliente in Model)
+    {
+        <tr>
+            <td>@cliente.num_cli</td>
+            <td>@cliente.nombre_cli</td>
+            <td>@cliente.tel_cli</td>
+            <td>@cliente.dir_cli</td>
+        </tr>
+
+    }
+</table>

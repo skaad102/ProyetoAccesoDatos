@@ -1,0 +1,12 @@
+c:\users\daniel adame\source\repos\InventarioWebII\InventarioWeb.DataAccess\bin\Debug\netstandard2.0\InventarioWeb.DataAccess.deps.json
+c:\users\daniel adame\source\repos\InventarioWebII\InventarioWeb.DataAccess\bin\Debug\netstandard2.0\InventarioWeb.DataAccess.dll
+c:\users\daniel adame\source\repos\InventarioWebII\InventarioWeb.DataAccess\obj\Debug\netstandard2.0\InventarioWeb.DataAccess.csprojResolveAssemblyReference.cache
+c:\users\daniel adame\source\repos\InventarioWebII\InventarioWeb.DataAccess\obj\Debug\netstandard2.0\InventarioWeb.DataAccess.csproj.CoreCompileInputs.cache
+c:\users\daniel adame\source\repos\InventarioWebII\InventarioWeb.DataAccess\obj\Debug\netstandard2.0\InventarioWeb.DataAccess.AssemblyInfoInputs.cache
+c:\users\daniel adame\source\repos\InventarioWebII\InventarioWeb.DataAccess\obj\Debug\netstandard2.0\InventarioWeb.DataAccess.AssemblyInfo.cs
+c:\users\daniel adame\source\repos\InventarioWebII\InventarioWeb.DataAccess\bin\Debug\netstandard2.0\InventarioWeb.DataAccess.pdb
+c:\users\daniel adame\source\repos\InventarioWebII\InventarioWeb.DataAccess\bin\Debug\netstandard2.0\InventarioWeb.Models.dll
+c:\users\daniel adame\source\repos\InventarioWebII\InventarioWeb.DataAccess\bin\Debug\netstandard2.0\InventarioWeb.Models.pdb
+c:\users\daniel adame\source\repos\InventarioWebII\InventarioWeb.DataAccess\obj\Debug\netstandard2.0\InventarioWeb.DataAccess.csproj.CopyComplete
+c:\users\daniel adame\source\repos\InventarioWebII\InventarioWeb.DataAccess\obj\Debug\netstandard2.0\InventarioWeb.DataAccess.dll
+c:\users\daniel adame\source\repos\InventarioWebII\InventarioWeb.DataAccess\obj\Debug\netstandard2.0\InventarioWeb.DataAccess.pdb

@@ -1,0 +1,23 @@
+﻿@model List<InventarioWeb.Models.Compra>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Lsitado De Compras</h2>
+
+<table class="table">
+    <tr>
+        <td>Producto</td>
+        <td>Proveedor</td>
+        <td>Cantidad</td>
+    </tr>
+    @foreach (var Compra in Model)
+    {
+        <tr>
+            <td>@Compra.ProductoId</td>
+            <td>@Compra.ProveedorId</td>
+            <td>@Compra.cant_compra</td>
+        </tr>
+
+    }
+</table>

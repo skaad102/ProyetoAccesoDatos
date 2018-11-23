@@ -1,0 +1,34 @@
+﻿@model List<InventarioWeb.Models.Cliente>
+@{
+    ViewData["Title"] = "Clientes";
+}
+
+<h2>Listado de Clientes</h2>
+
+<a asp-action="AgregarCliente">Crear Nuevo Cliente</a>
+
+<br /> <hr />
+
+<table class="table">
+    <tr>
+        <td>Identificación </td>
+        <td>Nombre </td>
+        <td>Telefono </td>
+        <td>Dirección </td>
+    </tr>
+    @foreach (var clientes in Model)
+    {
+        <tr>
+            <td>@clientes.ClienteId</td>
+            <td>@clientes.nombre_cli</td>
+            <td>@clientes.tel_cli</td>
+            <td>@clientes.dir_cli</td>
+            <td>
+                <a asp-action="Editar" asp-route-id="@clientes.ClienteId">Editar</a>
+                <a asp-action="VerDetalles" asp-route-id="@clientes.ClienteId">Ver Detalles</a>
+                <a asp-action="Eliminar" asp-route-id="@clientes.ClienteId">Eliminar</a>
+            </td>
+        </tr>
+    }
+</table>
+

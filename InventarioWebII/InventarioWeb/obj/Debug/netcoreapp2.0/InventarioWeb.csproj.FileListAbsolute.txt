@@ -1,0 +1,16 @@
+c:\users\daniel adame\source\repos\InventarioWebII\InventarioWeb\bin\Debug\netcoreapp2.0\InventarioWeb.deps.json
+c:\users\daniel adame\source\repos\InventarioWebII\InventarioWeb\bin\Debug\netcoreapp2.0\InventarioWeb.runtimeconfig.json
+c:\users\daniel adame\source\repos\InventarioWebII\InventarioWeb\bin\Debug\netcoreapp2.0\InventarioWeb.runtimeconfig.dev.json
+c:\users\daniel adame\source\repos\InventarioWebII\InventarioWeb\bin\Debug\netcoreapp2.0\InventarioWeb.dll
+c:\users\daniel adame\source\repos\InventarioWebII\InventarioWeb\bin\Debug\netcoreapp2.0\InventarioWeb.pdb
+c:\users\daniel adame\source\repos\InventarioWebII\InventarioWeb\bin\Debug\netcoreapp2.0\InventarioWeb.DataAccess.dll
+c:\users\daniel adame\source\repos\InventarioWebII\InventarioWeb\bin\Debug\netcoreapp2.0\InventarioWeb.Models.dll
+c:\users\daniel adame\source\repos\InventarioWebII\InventarioWeb\bin\Debug\netcoreapp2.0\InventarioWeb.DataAccess.pdb
+c:\users\daniel adame\source\repos\InventarioWebII\InventarioWeb\bin\Debug\netcoreapp2.0\InventarioWeb.Models.pdb
+c:\users\daniel adame\source\repos\InventarioWebII\InventarioWeb\obj\Debug\netcoreapp2.0\InventarioWeb.csprojResolveAssemblyReference.cache
+c:\users\daniel adame\source\repos\InventarioWebII\InventarioWeb\obj\Debug\netcoreapp2.0\InventarioWeb.csproj.CoreCompileInputs.cache
+c:\users\daniel adame\source\repos\InventarioWebII\InventarioWeb\obj\Debug\netcoreapp2.0\InventarioWeb.AssemblyInfoInputs.cache
+c:\users\daniel adame\source\repos\InventarioWebII\InventarioWeb\obj\Debug\netcoreapp2.0\InventarioWeb.AssemblyInfo.cs
+c:\users\daniel adame\source\repos\InventarioWebII\InventarioWeb\obj\Debug\netcoreapp2.0\InventarioWeb.csproj.CopyComplete
+c:\users\daniel adame\source\repos\InventarioWebII\InventarioWeb\obj\Debug\netcoreapp2.0\InventarioWeb.dll
+c:\users\daniel adame\source\repos\InventarioWebII\InventarioWeb\obj\Debug\netcoreapp2.0\InventarioWeb.pdb

@@ -1,0 +1,27 @@
+﻿@model List<InventarioWeb.Models.Venta>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Lsitado De Ventas</h2>
+
+<table class="table">
+    <tr>
+        <td>Cliente</td>
+        <td>Producto</td>
+        <td>Cantidad</td>
+        <td>Total</td>
+        <td>Fecha</td>
+    </tr>
+    @foreach (var Venta in Model)
+    {
+        <tr>
+            <td>@Venta.ClienteId</td>
+            <td>@Venta.ProductoId</td>
+            <td>@Venta.cantidad_prodictos</td>
+            <td>@Venta.total_venta</td>
+            <td>@Venta.fecha_venta</td>
+        </tr>
+
+    }
+</table>

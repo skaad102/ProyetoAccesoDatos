@@ -1,0 +1,28 @@
+C:\Users\DANIEL ADAME\Desktop\Universidad\6°\Acceso a DAto\Vs\AplInventario\AplInventario\bin\Debug\AplInventario.exe.config
+C:\Users\DANIEL ADAME\Desktop\Universidad\6°\Acceso a DAto\Vs\AplInventario\AplInventario\bin\Debug\AplInventario.exe
+C:\Users\DANIEL ADAME\Desktop\Universidad\6°\Acceso a DAto\Vs\AplInventario\AplInventario\bin\Debug\AplInventario.pdb
+C:\Users\DANIEL ADAME\Desktop\Universidad\6°\Acceso a DAto\Vs\AplInventario\AplInventario\obj\Debug\AplInventario.csprojResolveAssemblyReference.cache
+C:\Users\DANIEL ADAME\Desktop\Universidad\6°\Acceso a DAto\Vs\AplInventario\AplInventario\obj\Debug\AplInventario.AdicionarCompra.resources
+C:\Users\DANIEL ADAME\Desktop\Universidad\6°\Acceso a DAto\Vs\AplInventario\AplInventario\obj\Debug\AplInventario.AdicionarProductos.resources
+C:\Users\DANIEL ADAME\Desktop\Universidad\6°\Acceso a DAto\Vs\AplInventario\AplInventario\obj\Debug\AplInventario.AdicionarVenta.resources
+C:\Users\DANIEL ADAME\Desktop\Universidad\6°\Acceso a DAto\Vs\AplInventario\AplInventario\obj\Debug\AplInventario.Form1.resources
+C:\Users\DANIEL ADAME\Desktop\Universidad\6°\Acceso a DAto\Vs\AplInventario\AplInventario\obj\Debug\AplInventario.Properties.Resources.resources
+C:\Users\DANIEL ADAME\Desktop\Universidad\6°\Acceso a DAto\Vs\AplInventario\AplInventario\obj\Debug\AplInventario.csproj.GenerateResource.cache
+C:\Users\DANIEL ADAME\Desktop\Universidad\6°\Acceso a DAto\Vs\AplInventario\AplInventario\obj\Debug\AplInventario.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL ADAME\Desktop\Universidad\6°\Acceso a DAto\Vs\AplInventario\AplInventario\obj\Debug\AplInventario.exe
+C:\Users\DANIEL ADAME\Desktop\Universidad\6°\Acceso a DAto\Vs\AplInventario\AplInventario\obj\Debug\AplInventario.pdb
+C:\Users\DANIEL ADAME\Desktop\Universidad\6°\Acceso a DAto\Vs\AplInventario\AplInventario\obj\Debug\AplInventario.Controlador.resources
+C:\Users\DANIEL ADAME\Desktop\Universidad\6°\Acceso a DAto\Vs\AplInventario - copia\AplInventario\bin\Debug\AplInventario.exe.config
+C:\Users\DANIEL ADAME\Desktop\Universidad\6°\Acceso a DAto\Vs\AplInventario - copia\AplInventario\bin\Debug\AplInventario.exe
+C:\Users\DANIEL ADAME\Desktop\Universidad\6°\Acceso a DAto\Vs\AplInventario - copia\AplInventario\bin\Debug\AplInventario.pdb
+C:\Users\DANIEL ADAME\Desktop\Universidad\6°\Acceso a DAto\Vs\AplInventario - copia\AplInventario\obj\Debug\AplInventario.csprojResolveAssemblyReference.cache
+C:\Users\DANIEL ADAME\Desktop\Universidad\6°\Acceso a DAto\Vs\AplInventario - copia\AplInventario\obj\Debug\AplInventario.AdicionarCompra.resources
+C:\Users\DANIEL ADAME\Desktop\Universidad\6°\Acceso a DAto\Vs\AplInventario - copia\AplInventario\obj\Debug\AplInventario.AdicionarProductos.resources
+C:\Users\DANIEL ADAME\Desktop\Universidad\6°\Acceso a DAto\Vs\AplInventario - copia\AplInventario\obj\Debug\AplInventario.AdicionarVenta.resources
+C:\Users\DANIEL ADAME\Desktop\Universidad\6°\Acceso a DAto\Vs\AplInventario - copia\AplInventario\obj\Debug\AplInventario.Controlador.resources
+C:\Users\DANIEL ADAME\Desktop\Universidad\6°\Acceso a DAto\Vs\AplInventario - copia\AplInventario\obj\Debug\AplInventario.Form1.resources
+C:\Users\DANIEL ADAME\Desktop\Universidad\6°\Acceso a DAto\Vs\AplInventario - copia\AplInventario\obj\Debug\AplInventario.Properties.Resources.resources
+C:\Users\DANIEL ADAME\Desktop\Universidad\6°\Acceso a DAto\Vs\AplInventario - copia\AplInventario\obj\Debug\AplInventario.csproj.GenerateResource.cache
+C:\Users\DANIEL ADAME\Desktop\Universidad\6°\Acceso a DAto\Vs\AplInventario - copia\AplInventario\obj\Debug\AplInventario.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL ADAME\Desktop\Universidad\6°\Acceso a DAto\Vs\AplInventario - copia\AplInventario\obj\Debug\AplInventario.exe
+C:\Users\DANIEL ADAME\Desktop\Universidad\6°\Acceso a DAto\Vs\AplInventario - copia\AplInventario\obj\Debug\AplInventario.pdb
